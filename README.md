@@ -2,8 +2,11 @@
 Here is a public repository of all the information regarding the CyberSafety Course
 
 ## What is included:  
-*- Slides to the Lesson*  
-*- Password Guessing Python Game*
+*- Slides to the Lessons*  
+  * Password Security and Online Phishing  
+  * Cyberbullying and Digital Footprints
+   
+*- Password Cracker Python Game*
 
 
 ## How to play:  

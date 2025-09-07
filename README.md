@@ -5,8 +5,10 @@ Here is a public repository of all the information regarding the CyberSafety Cou
 *- Slides to the Lessons*  
   * Password Security and Online Phishing  
   * Cyberbullying and Digital Footprints
+  * Scam Safety and Secure Transfers
    
 *- Password Cracker Python Game*
+*- Python Terminal Hacker Game*
 
 
 ## How to play:  

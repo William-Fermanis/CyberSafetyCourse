@@ -1,5 +1,5 @@
 # CyberSafetyCourse
-Here is a public repository of all the information regarding the CyberSafety Course
+Here is a public repository of all the information regarding the CyberSafety Course produced and delivered 
 
 ## What is included:  
 *- Slides to the Lessons*  
